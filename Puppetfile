@@ -19,5 +19,5 @@ mod 'puppet-archive'
 mod 'puppetlabs-concat'
 mod 'thias-sysctl'
 mod 'puppetlabs-aws', '2.1.0'
-mod 'puppetlabs-iis', '8.0.3',
-#mod 'puppetlabs-pwshlib', '0.10.1'
+mod 'puppetlabs-iis', '8.0.3'
+mod 'puppetlabs-pwshlib', '0.10.1'
